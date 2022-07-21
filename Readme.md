@@ -174,23 +174,16 @@ Open the installation folder and double click on the program called `ModOrganize
 Make sure the dropdown box on the right is set to `SKSE` and press the `Run` button.
 
 ### In-Game MCM options
-`AVO has no MCM options required, however you can load the SmoothCam preset if you wish.`
 
-- This serves as a placeholder in case you want to use the Readme as some sort of template.
+Fahdon utilizes [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) by the lovely MrowPurr and does not require modification. Certain MCM elements have been hidden by [MenuMaid](https://www.nexusmods.com/skyrimspecialedition/mods/60087), so if you do not see an MCM that you wish to modify, feel free to re-enable the MCMs via the MenuMaid MCM. **DO NOT edit MCM settings while connected to a server. Disconnect before touching the MCM.**
 
 ### Starting the Game
 
 - Placeholder for your Readme. By default, AVO uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953).
 	
-## Adding mods to AVO
+## Adding mods to Fahdon
 
-To safely add mods to AVO, please read [the guide](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Adding%20mods%20to%20AVO.md), which covers some of the details you need to know.
-
-### Anniversary Edition
-
-AVO supports the latest verison of Skyrim, but **does not require** the paid update. 
-
-If you have the paid update, [AVO-AE](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/AEReadme.md) is available for you to use. Please see the linked document for more details about it.
+I will not be supporting the addition of mods in any official capacity due to the complexicity and testing each mod requires in order to determine it's compatibility with the STR client and syncing with other players.
 
 ## Updating the modlist
 
