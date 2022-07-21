@@ -46,7 +46,11 @@ Wabbajack Modlist Installer by Chef
   - [Contact](#contact)
 
 ## Preamble
-Fahdon is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well. It uses [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004) by default; however, it can support whichever weather mod you wish to use.
+Designed specifically with Skyrim Together Reborn in mind, each mod has been personally playtested and checked for desync issues and other general inconsistencies in multiplay. If you are looking for an experience inspired by systems found in Tabletop RPGs (i.e. D&D) then this is the list for you and your friends. You will benefit greatly from each person choosing a role through the [Set of Skills](https://www.nexusmods.com/skyrimspecialedition/mods/55535) MCM which will allow you to build into a specific archetype and gain benefits that can be boons to your party.
+
+Also, if you are into light or heavy RP, Fahdon has the tools to cultivate your inner storyteller. From in-game emotes [Various Player Actions](https://www.nexusmods.com/skyrimspecialedition/mods/22960) to immersive spell learning [Spelltome Studies](https://www.nexusmods.com/skyrimspecialedition/mods/71565), this list will have a little something for everyone.
+
+Enemies are smarter and will quickly overwhelm you if you aren't careful, so be sure to plan well and equip your group before adventuring. As there are a lot of sights to see, you may want to prep yourself for a long journey. Be it to the northernmost county of Cyrodiil; [Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), or perhaps you could find yourself whisked away into a [Dark and Mysterious land](https://www.nexusmods.com/skyrimspecialedition/mods/10423). Regardless of where wanderlust pulls, you'll certainly find a plethora of experiences to discover on your journey.
 
 **NOTE**: Fahdon **REQUIRES** the paid update to Skyrim.
 
