@@ -136,7 +136,7 @@ Due to the Skyrim Together Reborn team disabling the ESL Reader, I've had to inc
 6. Double Click on the Extension Converter.bat to run it. You should see all the .ESLs turn into .ESMs.
 7. You're done! Have fun!
 
-## Skyrim Together Reborn
+### Skyrim Together Reborn
 
 As it has been wonderfully documented by the STR team already, please continue to: [Skyrim Together Reborn]((https://wiki.tiltedphoques.com/tilted-online/guides/client-setup/using-modorganizer2-mo2/skyrim-together-reborn/launching-skyrimtogether-through-mo2)) for the initial setup of your STR client.
 
