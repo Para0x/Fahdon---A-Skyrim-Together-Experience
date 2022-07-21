@@ -144,7 +144,7 @@ Due to the Skyrim Together Reborn team disabling the ESL Reader, I've had to inc
 
 As it has been wonderfully documented by the STR team already, please continue to: [Skyrim Together Reborn](https://wiki.tiltedphoques.com/tilted-online/guides/client-setup/using-modorganizer2-mo2/skyrim-together-reborn/launching-skyrimtogether-through-mo2) for the initial setup of your STR client.
 
-**NOTE:** Due to using Stock Game, please navigate to where you installed the modlist to and open up the Game Root folder and select the SkyrimSE.exe there. This is a **VERY IMPORTANT STEP**. If you use your actual install directory for Skyrim SE, the modlist **WILL NOT WORK**.
+**NOTE:** Due to using Stock Game, please navigate to where you installed the modlist, open up the Game Root folder and select the SkyrimSE.exe inside. This is a **VERY IMPORTANT STEP**. If you use your actual install directory for Skyrim SE, the modlist **WILL NOT WORK**.
 
 ### ENB
 Fahdon is designed for use with an ENB and comes with [Mythical Ages](https://www.nexusmods.com/skyrimspecialedition/mods/11578) & [Rune ENB](https://www.nexusmods.com/skyrimspecialedition/mods/68138), already activated and ready for use.
