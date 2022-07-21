@@ -127,13 +127,13 @@ Fahdon uses a Wabbajack feature called Stock Game to keep your Skyrim installati
 
 Due to the Skyrim Together Reborn team disabling the ESL Reader, I've had to include a .BAT that you will have to run in order to convert the plugins to their correct extensions as outlined below:
 
-i) Open up MO2 and find the Divider labeled "Main Files".
-ii) Inside the Divider you will find a mod named "CC AE Converted (STR Compatible).
-iii) Right click on the mod and select "Open in Explorer", which will then open up Windows Explorer.
-iv) Double Click the folder named "Extensions BAT" to open it.
-v) Ctrl + X to cut the file from the folder, then return to the main folder and paste it using Ctrl + V
-vi) Double Click on the Extension Converter.bat to run it. You should see all the .ESLs turn into .ESMs.
-vii) You're done! Have fun!
+1. Open up MO2 and find the Divider labeled "Main Files".
+2. Inside the Divider you will find a mod named "CC AE Converted (STR Compatible).
+3. Right click on the mod and select "Open in Explorer", which will then open up Windows Explorer.
+4. Double Click the folder named "Extensions BAT" to open it.
+5. Ctrl + X to cut the file from the folder, then return to the main folder and paste it using Ctrl + V
+6. Double Click on the Extension Converter.bat to run it. You should see all the .ESLs turn into .ESMs.
+7. You're done! Have fun!
 
 ## Skyrim Together Reborn
 
