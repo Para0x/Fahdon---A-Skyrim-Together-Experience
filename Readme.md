@@ -32,6 +32,7 @@ Wabbajack Modlist Installer by Chef
       - [Problems with installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
     - [Game Folder](#game-folder)
+    - [Creation Club ESL to ESM](#Creation-Club-ESL-to-ESM)
     - [BethINI](#bethini)
     - [ENB](#enb)
   - [Playing the List](#playing-the-list)
@@ -128,7 +129,7 @@ Fahdon uses a Wabbajack feature called Stock Game to keep your Skyrim installati
 Due to the Skyrim Together Reborn team disabling the ESL Reader, I've had to include a .BAT that you will have to run in order to convert the plugins to their correct extensions as outlined below:
 
 1. Open up MO2 and find the Divider labeled "Main Files".
-2. Inside the Divider you will find a mod named "CC AE Converted (STR Compatible).
+2. Inside the Divider you will find a mod named "CC AE Converted (STR Compatible)".
 3. Right click on the mod and select "Open in Explorer", which will then open up Windows Explorer.
 4. Double Click the folder named "Extensions BAT" to open it.
 5. Ctrl + X to cut the file from the folder, then return to the main folder and paste it using Ctrl + V
