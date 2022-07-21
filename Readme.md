@@ -2,7 +2,7 @@
 
 ![image](https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOLogo.webp)
 
-Wabbajack Modlist Installer by The Animonculory Team
+Wabbajack Modlist Installer by Chef
 
 <table stlyle="border: none;">
 <tr>
