@@ -1,6 +1,6 @@
-# Animonculory Visual Overhaul
+# Fahdon - A Skyrim Together Experience
 
-![image](https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOLogo.webp)
+![Fahdon Splash](https://user-images.githubusercontent.com/88156705/180282286-80068007-10d7-434c-b55a-75e2a0e6609f.png)
 
 Wabbajack Modlist Installer by Chef
 
@@ -28,7 +28,7 @@ Wabbajack Modlist Installer by Chef
     - [Pre-Installation](#pre-installation)
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
-      - [Downloading and Installing AVO](#downloading-and-installing-avo)
+      - [Downloading and Installing Fahdon](#downloading-and-installing-avo)
       - [Problems with installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
     - [Game Folder](#game-folder)
@@ -38,26 +38,22 @@ Wabbajack Modlist Installer by Chef
     - [Starting up the list](#starting-up-the-list)
     - [In Game MCM Options](#in-game-mcm-options)
     - [Starting the Game](#starting-the-game)
-  - [Updating AVO](#updating-the-modlist)
+  - [Updating Fahdon](#updating-the-modlist)
   - [FAQ](#faq)
    - [Removing the modlist](#removing-the-modlist)
   - [Credits and Thanks](#credits-and-thanks)
   - [Contact](#contact)
 
 ## Preamble
-Animonculory Visual Overhaul (AVO) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well. It uses [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004) by default; however, it can support whichever weather mod you wish to use.
+Fahdon is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well. It uses [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004) by default; however, it can support whichever weather mod you wish to use.
 
-The full modlist can be viewed [here](https://loadorderlibrary.com/lists/animonculory-visual-overhaul), a selection of screenshots can be viewed [here](https://imgur.com/a/mcpBqFW) and a video showcase by DroppedIceCream can be viewed below.
-
-[![AVO Showcase](https://img.youtube.com/vi/CXuDlNrPVoo/0.jpg)](https://www.youtube.com/watch?v=CXuDlNrPVoo)
-
-**NOTE**: AVO **DOES NOT** require the paid update to Skyrim. It is compatible with it, but does not require it. If you wish to use the new paid content update, please use [AVO-AE](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/AEReadme.md).
+**NOTE**: Fahdon **REQUIRES** the paid update to Skyrim.
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 ## System Requirements
 
-AVO has been tested extensively on a range of systems and using industry standard testing software to determine the required specs for the list. As such, the following specs are recommended to run the list.
+Fahdon uses AVO AE's graphical base and has been tested extensively on a range of systems and using industry standard testing software to determine the required specs for the list. As such, the following specs are recommended to run the list.
 
 | Spec Category | Minimum for 30fps | Recommended for 60fps |
 |     :---:    |     :---:      |     :---:     |
@@ -72,11 +68,11 @@ Space required: Approx 115GB (Downloads included)
 
 ## Installation
 
-Installing AVO is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating).
+Installing Fahdon is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating).
 
 ### Pre-Installation
 
-Prior to installing AVO, please complete the following steps.
+Prior to installing Fahdon, please complete the following steps.
 
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
@@ -91,12 +87,12 @@ Prior to installing AVO, please complete the following steps.
 
 Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
-#### Downloading and Installing AVO
+#### Downloading and Installing Fahdon
 
-Downloading and installing AVO can take a while depending on your internet connection and computer. To install AVO, complete the following steps.
+Downloading and installing Fahdon can take a while depending on your internet connection and computer. To install AVO, complete the following steps.
 
 1. Open Wabbajack and click on browse modlists.
-2. Press the download button on AVO and wait for it to download.
+2. Press the download button on Fahdon and wait for it to download.
 3. Set the installation folder to be somewhere like C:\Games\AVO. **Do not install it to your desktop or downloads folder.**
 4. The download location does not need to be on a SSD but it makes installing a bit faster
 5. Press the play button to begin.
@@ -125,12 +121,30 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ### Game Folder
 
-AVO uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called “Game Root”. You don’t need to copy anything at all.
+Fahdon uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called “Game Root”. You don’t need to copy anything at all.
+
+### Creation Club ESL to ESM
+
+Due to the Skyrim Together Reborn team disabling the ESL Reader, I've had to include a .BAT that you will have to run in order to convert the plugins to their correct extensions as outlined below:
+
+i) Open up MO2 and find the Divider labeled "Main Files".
+ii) Inside the Divider you will find a mod named "CC AE Converted (STR Compatible).
+iii) Right click on the mod and select "Open in Explorer", which will then open up Windows Explorer.
+iv) Double Click the folder named "Extensions BAT" to open it.
+v) Ctrl + X to cut the file from the folder, then return to the main folder and paste it using Ctrl + V
+vi) Double Click on the Extension Converter.bat to run it. You should see all the .ESLs turn into .ESMs.
+vii) You're done! Have fun!
+
+## Skyrim Together Reborn
+
+As it has been wonderfully documented by the STR team already, please continue to: [Skyrim Together Reborn]((https://wiki.tiltedphoques.com/tilted-online/guides/client-setup/using-modorganizer2-mo2/skyrim-together-reborn/launching-skyrimtogether-through-mo2)) for the initial setup of your STR client.
+
+**NOTE** Due to using Stock Game, please navigate to where you installed the modlist to and open up the Game Root folder and select the SkyrimSE.exe there. This is a **VERY IMPORTANT STEP**. If you use your actual install directory for Skyrim SE, the modlist **WILL NOT WORK**.
 
 ### ENB
-AVO is designed for use with an ENB and comes with [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004), already activated and ready for use. The ENB has been custom tweaked for the list to match the intended look, feel and performance of the list.
+Fahdon is designed for use with an ENB and comes with [Mythical Ages](https://www.nexusmods.com/skyrimspecialedition/mods/11578) & [Rune ENB](https://www.nexusmods.com/skyrimspecialedition/mods/68138), already activated and ready for use.
 
-If you wish to install your own ENB, however, an ENB manager is included. Simply put your new ENB into a seperate folder in `AVO\tools\Enb Organizer\Games\SkyrimSE\Preset`.
+If you wish to install your own ENB, however, an ENB manager is included. Simply put your new ENB into a seperate folder in `Fahdon\tools\Enb Organizer\Games\SkyrimSE\Preset`.
 
 #### Using ENB Manager
 
