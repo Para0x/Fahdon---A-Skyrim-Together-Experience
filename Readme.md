@@ -50,9 +50,11 @@ Designed specifically with Skyrim Together Reborn in mind, each mod has been per
 
 Also, if you are into light or heavy RP, Fahdon has the tools to cultivate your inner storyteller. From [in-game emotes](https://www.nexusmods.com/skyrimspecialedition/mods/22960) to [immersive spell learning](https://www.nexusmods.com/skyrimspecialedition/mods/71565), this list will have a little something for everyone.
 
-Enemies are smarter and will quickly overwhelm you if you aren't careful, so be sure to plan well and equip your group before adventuring. As there are a lot of sights to see, you may want to prep yourself for a long journey. Be it to the northernmost county of Cyrodiil; [Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), or perhaps you could find yourself whisked away into a [Dark and Mysterious land](https://www.nexusmods.com/skyrimspecialedition/mods/10423). Regardless of where wanderlust pulls, you'll certainly find a plethora of experiences to discover on your journey.
+Enemies are smarter and will quickly overwhelm you if you aren't careful, so be sure to plan well and equip your group before adventuring. 
 
-**NOTE**: Fahdon **REQUIRES** the paid update to Skyrim.
+As there are a lot of sights to see, you may want to prep yourself for a long journey. Be it to the northernmost county of Cyrodiil, [Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), or perhaps finding yourself whisked away into a [Dark and Mysterious land](https://www.nexusmods.com/skyrimspecialedition/mods/10423), you'll never be want for places to explore.
+
+**"NOTE: FAHDON REQUIRES THE FULL AE UPGRADE, WHICH MEANS YOU MUST PURCHASE THE AE EDITION OF THE GAME FOR THE LIST TO FUNCTION."**
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
