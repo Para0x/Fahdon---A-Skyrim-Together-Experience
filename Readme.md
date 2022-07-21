@@ -172,7 +172,7 @@ For adding your own presets and more details, take a look at [ENB Organizer](htt
 ### Starting up the list
 Open the installation folder and double click on the program called `ModOrganizer.exe`. 
 
-Make sure the dropdown box on the right is set to `SKSE` and press the `Run` button.
+Make sure the dropdown box on the right is set to `Skyrim Together` and press the `Run` button.
 
 ### In-Game MCM options
 
