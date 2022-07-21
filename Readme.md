@@ -33,6 +33,7 @@ Wabbajack Modlist Installer by Chef
   - [Post-Installation](#post-installation)
     - [Game Folder](#game-folder)
     - [Creation Club ESL to ESM](#Creation-Club-ESL-to-ESM)
+    - [Skyrim Together Reborn](#Skyrim-Together-Reborn)
     - [BethINI](#bethini)
     - [ENB](#enb)
   - [Playing the List](#playing-the-list)
