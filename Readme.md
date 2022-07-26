@@ -187,7 +187,11 @@ Fahdon utilizes [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mo
 
 ### Starting the Game
 
-- Placeholder for your Readme. By default, AVO uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953).
+- Fahdon uses [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272).
+1. Create your character and let MCM Recorder Load everything.
+2. Save and Exit the Game.
+3. Reload the Game.
+(This needs to be done due to Skyrim Together Reborn being unable to utilize Engine Fixes and results in the false save corruption bug.)
 	
 ## Adding mods to Fahdon
 
