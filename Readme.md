@@ -141,7 +141,10 @@ Due to the Skyrim Together Reborn team disabling the ESL Reader, I've had to inc
 4. Double Click the folder named "Extensions BAT" to open it.
 5. Ctrl + X to cut the file from the folder, then return to the main folder and paste it using Ctrl + V
 6. Double Click on the Extension Converter.bat to run it. You should see all the .ESLs turn into .ESMs.
-7. You're done! Have fun!
+7. Now go back into MO2, click on the "Restore Backups" tab on the right pane above your plugins. (The one which looks like a swooping arrow)
+8. Select this exact backup and all the ESMs should be loaded correctly:
+![image](https://user-images.githubusercontent.com/88156705/181343927-9804a47b-b1ca-4fa1-9768-fcab5b811a09.png)
+
 
 ### Skyrim Together Reborn
 
@@ -183,7 +186,7 @@ Make sure the dropdown box on the right is set to `Skyrim Together` and press th
 
 ### In-Game MCM options
 
-Fahdon utilizes [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) by the lovely MrowPurr and does not require modification. Certain MCM elements have been hidden by [MenuMaid](https://www.nexusmods.com/skyrimspecialedition/mods/60087), so if you do not see an MCM that you wish to modify, feel free to re-enable the MCMs via the MenuMaid MCM. **DO NOT edit MCM settings while connected to a server. Disconnect before touching the MCM.**
+Fahdon utilizes [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) by the lovely MrowPurr and does not require modification. If you wish to make any modifications to the MCM, be sure to disconnect before touching the MCM and sync all changes with your other party members.**
 
 ### Starting the Game
 
@@ -229,9 +232,7 @@ Simply delete the folder, and you have uninstalled it.
 
 ## Contact
 
-Whilst I am available primarily on [my server](https://discord.gg/DffHKcszfg), please check the [issues](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/issues) tab on github first if you have any issues. DO NOT DM ME ON DISCORD.
-
-You are welcome to [contribute](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Contributing.md) to the list, however please check the [changelog](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Changelog.md) before you do.
+Whilst I am available primarily on [The Animonculory Server](https://discord.gg/DffHKcszfg), please check the [issues](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/issues) tab on github first if you have any issues. DO NOT DM ME ON DISCORD.
 
 ## The Animonculory Team
 - Althro - Leader & Head of Development
