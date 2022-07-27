@@ -143,7 +143,7 @@ Due to the Skyrim Together Reborn team disabling the ESL Reader, I've had to inc
 6. Double Click on the Extension Converter.bat to run it. You should see all the .ESLs turn into .ESMs.
 7. Now go back into MO2, click on the "Restore Backups" tab on the right pane above your plugins. (The one which looks like a swooping arrow)
 8. Select this exact backup and all the ESMs should be loaded correctly:
-![image](https://user-images.githubusercontent.com/88156705/181343927-9804a47b-b1ca-4fa1-9768-fcab5b811a09.png)
+![image](https://user-images.githubusercontent.com/88156705/181363198-f89a247c-32f0-44cc-aa61-7069d7800745.png)
 
 
 ### Skyrim Together Reborn
@@ -186,15 +186,15 @@ Make sure the dropdown box on the right is set to `Skyrim Together` and press th
 
 ### In-Game MCM options
 
-Fahdon utilizes [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) by the lovely MrowPurr and does not require modification. If you wish to make any modifications to the MCM, be sure to disconnect before touching the MCM and sync all changes with your other party members.**
+Fahdon utilizes [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) by the lovely MrowPurr and does not require modification. If you wish to make any modifications to the MCM, **be sure to disconnect before touching the MCM and sync all changes with your other party members.**
 
 ### Starting the Game
 
 - Fahdon uses [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272).
 1. Create your character and let MCM Recorder Load everything.
-2. Save and Exit the Game.
-3. Reload the Game.
-(This needs to be done due to Skyrim Together Reborn being unable to utilize Engine Fixes and results in the false save corruption bug.)
+2. Choose an Alternate Start.
+3. Press F2 to open the Reborn UI and connect to your server!
+4. Have fun!
 	
 ## Adding mods to Fahdon
 
@@ -242,4 +242,6 @@ Whilst I am available primarily on [The Animonculory Server](https://discord.gg/
 - GuitarBarbarian - Senior Management Team
 - Annakins - Dev Team, Testing, Graphics & Documentation
 - Astro - Dev Team & Testing
+- Abandoned_by_Arkay - Testing
 - DestinySlayer - Dev Team & Community Engagement
+- Skyrim Together Reborn Team - Without them, this project would not be possible. Huge thanks to them.
