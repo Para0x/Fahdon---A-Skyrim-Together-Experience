@@ -193,8 +193,9 @@ Fahdon utilizes [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mo
 - Fahdon uses [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272).
 1. Create your character and let MCM Recorder Load everything.
 2. Choose an Alternate Start.
-3. Press F2 to open the Reborn UI and connect to your server!
-4. Have fun!
+3. Go into the [Set of Skills](https://www.nexusmods.com/skyrimspecialedition/mods/55535) MCM and select your starting class.
+4. Press F2 to open the Reborn UI and connect to your server!
+5. Have fun!
 	
 ## Adding mods to Fahdon
 
