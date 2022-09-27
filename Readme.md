@@ -101,7 +101,7 @@ Once you have completed pre-installation, download the [latest version of Wabbaj
 
 Downloading and installing Fahdon can take a while depending on your internet connection and computer. To install Fahdon, complete the following steps.
 
-1. Download the Fahdon.wabbajack from this [link](https://mega.nz/file/D1ZhybxI#9-5cxwmrQckTRB0AuxxXaaEfDKvisnoOtXc67L-_HGA).
+1. Download the Fahdon.wabbajack from this [link](https://mega.nz/file/qwZEUKzC#xyr7OiogR9BDwnwe_F_3Nx1e-sOqA9v64q00dzH3myc).
 2. Double Click on the wabbajack file to have Wabbajack open it.
 3. Set the installation folder to be somewhere like C:\Games\Fahdon. **Do not install it to your desktop or downloads folder.**
 4. The download location does not need to be on a SSD but it makes installing a bit faster
