@@ -55,6 +55,8 @@ Enemies are smarter and will quickly overwhelm you if you aren't careful, so be 
 
 As there are a lot of sights to see, you may want to prep yourself for a long journey. Be it to the northernmost county of Cyrodiil, [Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), or perhaps finding yourself whisked away into a [Dark and Mysterious land](https://www.nexusmods.com/skyrimspecialedition/mods/10423), you'll never be want for places to explore.
 
+Full modlist [here](https://loadorderlibrary.com/lists/fahdon-a-skyrim-together-experience-1).
+
 > <ins>**"WARNING: FAHDON REQUIRES THE *FULL AE UPGRADE*, PLEASE ENSURE YOU HAVE PURCHASED THE FULL UPGRADE."**</ins>
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
