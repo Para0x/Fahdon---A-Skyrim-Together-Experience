@@ -236,7 +236,7 @@ Simply delete the folder, and you have uninstalled it.
 
 ## Contact
 
-Whilst I am available primarily on [The Animonculory Server](https://discord.gg/DffHKcszfg), please check the [issues](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/issues) tab on github first if you have any issues. DO NOT DM ME ON DISCORD.
+Whilst I am available primarily on [The Animonculory Server](https://discord.gg/DffHKcszfg), please check the [issues](https://github.com/Para0x/Fahdon-A-Skyrim-Together-Experience/issues) tab on github first if you have any issues. DO NOT DM ME ON DISCORD.
 
 ## The Animonculory Team
 - Althro - Leader & Head of Development
