@@ -145,7 +145,7 @@ Due to the Skyrim Together Reborn team disabling the ESL Reader, I've had to inc
 6. Double Click on the Extension Converter.bat to run it. You should see all the .ESLs turn into .ESMs.
 7. Now go back into MO2, click on the "Restore Backups" tab on the right pane above your plugins. (The one which looks like a swooping arrow)
 8. Select the backup (there should only be **one**, if there isn't, choose the latest.) and all the ESMs should be loaded correctly:
-![image](https://user-images.githubusercontent.com/88156705/194963372-b62b6175-adbd-4e53-9f61-bb140f55d611.png)
+![image](https://user-images.githubusercontent.com/88156705/194963545-9a56cade-f759-434a-8c4c-df0436f30a85.png)
 
 
 
