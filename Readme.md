@@ -158,13 +158,13 @@ As it has been wonderfully documented by the STR team already, please continue t
 > **NOTE:** Due to using Stock Game, please navigate to where you installed the modlist, open up the Game Root folder and select the SkyrimSE.exe inside. This is a **VERY IMPORTANT STEP**. If you use your actual install directory for Skyrim SE, the modlist **WILL NOT WORK**.
 
 ### ENB
-Fahdon is designed for use with an ENB and comes with [Mythical Ages](https://www.nexusmods.com/skyrimspecialedition/mods/11578) & [Rune ENB](https://www.nexusmods.com/skyrimspecialedition/mods/68138), already activated and ready for use.
+Fahdon is designed for use with an ENB and comes with [Mythical Ages](https://www.nexusmods.com/skyrimspecialedition/mods/11578) & [Rune ENB](https://www.nexusmods.com/skyrimspecialedition/mods/68138), already activated and ready for use. I've included an optional ENB that can be changed via ENB Organizer, which is: [The Vanilla ENB 2](https://www.nexusmods.com/skyrimspecialedition/mods/78124)
 
 If you wish to install your own ENB, however, an ENB manager is included. Simply put your new ENB into a seperate folder in `Fahdon\tools\Enb Organizer\Games\SkyrimSE\Preset`.
 
 #### Using ENB Manager
 
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big `Run` button next to it. Run the program named `Pick Your ENB` from Mod Organizer 2.
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big `Run` button next to it. Run the program named `Pick Your ENB` from Mod Organizer 2. The images below do not represent the settings in Fahdon. **These serve as general examples**.
 
 ![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/ENB%201.png?raw=true)
 
@@ -201,8 +201,9 @@ Fahdon utilizes [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mo
 3. Choose an Alternate Start.
 4. Go into the [Set of Skills](https://www.nexusmods.com/skyrimspecialedition/mods/55535) MCM and select your starting class.
 5. Go into your inventory and use the "Choose Your Destiny" scroll to complete your starting skill choices.
-6. Press F2 to open the Reborn UI and connect to your server!
-7. Have fun!
+6. Once you have chosen your desired start and left the starting cell, open the MCM and navigate to the Attack Speed MCM menu. Ensure that the Attack Speed Fix is enabled. If it is not, enable it. You will have to unequip any weapon you currently have equipped before doing so. **THIS IS NOT OPTIONAL**.
+7. Press F2 to open the Reborn UI and connect to your server!
+8. Have fun!
 	
 ## Adding mods to Fahdon
 
