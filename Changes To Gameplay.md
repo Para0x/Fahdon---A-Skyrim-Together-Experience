@@ -56,18 +56,18 @@ At the base of our magic overhaul is [Mysticism - A Magic Overhaul](). On its ow
 # Quests & New Lands
 1. The Quest Expansion series by JaySerpa has been added to flesh out a number of vanilla quests, making your decisions and actions impact the world around you.
 
-2. Actually Challenging Radiant Quests - No longer will you be able to follow a map marker certain radiant bounty or retrieval quests. Instead, you will be given a clue of the general Hold and will need to gather information yourself by asking the locals.
+2. [Actually Challenging Radiant Quests](https://www.nexusmods.com/skyrimspecialedition/mods/75651) - No longer will you be able to follow a map marker certain radiant bounty or retrieval quests. Instead, you will be given a clue of the general Hold and will need to gather information yourself by asking the locals.
 
-3. Darkend - The final resting place of a ship wrecked long ago, The Voyager's End, they call it. Rumor has it that something has been stirring there recently and has the locals concerned. Travel Northwest of Winterhold to discover the truth for yourself.
+3. [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423) - The final resting place of a ship wrecked long ago, The Voyager's End, they call it. Rumor has it that something has been stirring there recently and has the locals concerned. Travel Northwest of Winterhold to discover the truth for yourself.
 
-4. Beyond Skyrim - Bruma - Travel to the County of Bruma, where the seat of Empire has its strongest influences. A number of new dungeons, quests and adventures await you.
+4. [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917) - Travel to the County of Bruma, where the seat of Empire has its strongest influences. A number of new dungeons, quests and adventures await you.
 
-5. Wares of Tamriel - There is word of a merchant vessel moored in Dawnstar, by the name of the Dawn's Venture. Rumor has it that they are selling wares from all across the provinces. Might be worth checking it out.
+5. [Wares of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/31519) - There is word of a merchant vessel moored in Dawnstar, by the name of the Dawn's Venture. Rumor has it that they are selling wares from all across the provinces. Might be worth checking it out.
 
-6. Heart of the Reach - A quest that will send you into the Ever-Bog. Word has spread of a priest in Markarth that is looking for help within this underground swamp. Whether or not you answer his plea, the choice is yours.
+6. [Heart of the Reach](https://www.nexusmods.com/skyrimspecialedition/mods/76494) - A quest that will send you into the Ever-Bog. Word has spread of a priest in Markarth that is looking for help within this underground swamp. Whether or not you answer his plea, the choice is yours.
 
-7. Observatory - You have heard mention that necromancer activity has started growing near the entrance to the Jerall Mountains. It's been said that suspicious individuals are seen entering and leaving the mouth of a cave near the Glenmoril Coven.
+7. [Observatory](https://www.nexusmods.com/skyrimspecialedition/mods/72405) - You have heard mention that necromancer activity has started growing near the entrance to the Jerall Mountains. It's been said that suspicious individuals are seen entering and leaving the mouth of a cave near the Glenmoril Coven.
 
-8. Dungeons Revisited - Breathes new life into the familiar dungeons, offering a number of alternate routes to take.
+8. [Dungeons Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/51798) - Breathes new life into the familiar dungeons, offering a number of alternate routes to take.
 
-9. Inconvenient Dungeons - Removes the easy exit out the back of numerous dungeons and overhauls several of the bosses at the end of these dungeons as well.
+9. [Inconvenient Dungeons](https://www.nexusmods.com/skyrimspecialedition/mods/66784) - Removes the easy exit out the back of numerous dungeons and overhauls several of the bosses at the end of these dungeons as well.
