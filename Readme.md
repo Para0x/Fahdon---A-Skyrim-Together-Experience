@@ -158,7 +158,7 @@ As it has been wonderfully documented by the STR team already, please continue t
 > **NOTE:** Due to using Stock Game, please navigate to where you installed the modlist, open up the Game Root folder and select the SkyrimSE.exe inside. This is a **VERY IMPORTANT STEP**. If you use your actual install directory for Skyrim SE, the modlist **WILL NOT WORK**.
 
 ### ENB
-Fahdon is designed for use with an ENB and comes with [Ruvaak Dahmaan](https://www.nexusmods.com/skyrimspecialedition/mods/71957) already enabled and ready to use, however I've also included an optional ENB that can be changed via ENB Organizer, which is: [The Vanilla ENB 2](https://www.nexusmods.com/skyrimspecialedition/mods/78124)
+Fahdon is designed for use with an ENB and comes with [Mythical Ages](https://www.nexusmods.com/skyrimspecialedition/mods/11578) & [Rune ENB](https://www.nexusmods.com/skyrimspecialedition/mods/68138), already activated and ready for use. I've included an optional ENB that can be changed via ENB Organizer, which is: [The Vanilla ENB 2](https://www.nexusmods.com/skyrimspecialedition/mods/78124)
 
 If you wish to install your own ENB, however, an ENB manager is included. Simply put your new ENB into a seperate folder in `Fahdon\tools\Enb Organizer\Games\SkyrimSE\Preset`.
 
