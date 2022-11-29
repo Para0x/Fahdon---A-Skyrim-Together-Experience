@@ -201,7 +201,7 @@ Fahdon utilizes [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mo
 3. Choose an Alternate Start.
 4. Go into the [Set of Skills](https://www.nexusmods.com/skyrimspecialedition/mods/55535) MCM and select your starting class.
 5. Go into your inventory and use the "Choose Your Destiny" scroll to complete your starting skill choices.
-6. Once you have chosen your desired start and left the starting cell, open the MCM and navigate to the WeapSpeedMult Fix MCM menu. Ensure that the Weapon Speed Multiplier Fix is activated. If it is not, enable it. You will have to unequip any weapon you currently have equipped before doing so. **THIS IS NOT OPTIONAL**.
+6. Once you have chosen your desired start and left the starting cell, open the MCM and navigate to the WeapSpeedMult Fix MCM. Ensure that the Weapon Speed Multiplier Fix is activated. If it is not, enable it. You will have to unequip any weapon you currently have equipped before doing so. **THIS IS NOT OPTIONAL**.
 7. Press F2 to open the Reborn UI and connect to your server!
 8. Have fun!
 	
