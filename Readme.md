@@ -243,6 +243,14 @@ Simply delete the folder, and you have uninstalled it.
 
 Whilst I am available primarily on [The Animonculory Server](https://discord.gg/DffHKcszfg), please check the [issues](https://github.com/Para0x/Fahdon-A-Skyrim-Together-Experience/issues) tab on github first if you have any issues. DO NOT DM ME ON DISCORD.
 
+_If you wish to support me, please use the link below to do so!_
+
+[![KoFi][kofi-img]][kofi]
+
+[kofi]: https://ko-fi.com/chef354053 
+[kofi-img]: https://raw.githubusercontent.com/doodlum/nexusmods-widgets/main/Ko-fi_40px_60fps.png
+
+
 ## The Animonculory Team
 - Althro - Leader & Head of Development
 - Styyx - Senior Management Team & Dev Team
