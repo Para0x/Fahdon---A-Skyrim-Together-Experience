@@ -74,7 +74,7 @@ Fahdon uses AVO AE's graphical base and has been tested extensively on a range o
 | **Expected peformance**    | 35fps outdoors wiith 40+ indoors. Loading times between 20 to 30 seconds.       | 59-112fps outdoors and indoors with loading times around 10 to 15 seconds. Cap FPS to achieve smoother experience.      |
 | **Expected non ENB performance**    | 40fps outdoors with 50fps indoors. Loading times between 15 and 40 seconds.      | 100+ fps both outdoors and indoors with loading times between 5 and 15 seconds.     |
 
-Space required: Approx 140GB (Without Downloads) 149GB (With Downloads)
+Space required: 135GB (Without Downloads) 223GB (With Downloads)
 
 ## Installation
 
