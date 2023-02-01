@@ -47,13 +47,15 @@ Wabbajack Modlist Installer by Chef
   - [Contact](#contact)
 
 ## Preamble
-Designed specifically with Skyrim Together Reborn in mind, each mod has been personally playtested and checked for desync issues and other general inconsistencies in multiplay. If you are looking for an experience inspired by systems found in Tabletop RPGs (i.e. D&D) then this is the list for you and your friends. You will benefit greatly from each person choosing a role through the [Set of Skills](https://www.nexusmods.com/skyrimspecialedition/mods/55535) MCM which will allow you to build into a specific archetype and gain benefits that can be boons to your party.
+This collection of mods has been created with the goal of providing an optimal experience for players of Skyrim Together Reborn. Every mod has undergone rigorous testing to ensure a smooth and consistent multiplayer experience, free of desync issues and other inconsistencies. This list is perfect for players who want to recreate the immersive, tabletop RPG-style gameplay found in games like Dungeons and Dragons, and is an excellent choice for players who want to enjoy the game with their friends. 
+
+Maximizing the benefits of playing together as a group can be achieved by assigning specific roles to each player through the use of the [Set of Skills](https://www.nexusmods.com/skyrimspecialedition/mods/55535) MCM. This allows each player to focus on developing a particular archetype, resulting in unique strengths and abilities that can greatly enhance the overall performance of the party.
 
 Also, if you are into light or heavy RP, Fahdon has the tools to cultivate your inner storyteller. From [in-game emotes](https://www.nexusmods.com/skyrimspecialedition/mods/22960) to [immersive spell learning](https://www.nexusmods.com/skyrimspecialedition/mods/71565), this list will have a little something for everyone.
 
-Enemies are smarter and will quickly overwhelm you if you aren't careful, so be sure to plan well and equip your group before adventuring. 
+Beware, as your opponents in the game have been made more cunning and will quickly overpower you if you are not prepared. It is crucial to strategize carefully and equip your group with the necessary resources before embarking on any adventures. 
 
-As there are a lot of sights to see, you may want to prep yourself for a long journey. Be it to the northernmost county of Cyrodiil, [Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), or perhaps finding yourself whisked away into a [Dark and Mysterious land](https://www.nexusmods.com/skyrimspecialedition/mods/10423), you'll never be want for places to explore.
+Get ready for a journey filled with stunning landscapes. With a wealth of fascinating destinations, such as the northern county of Cyrodiil's [Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917) or a [Dark and Mysterious land](https://www.nexusmods.com/skyrimspecialedition/mods/10423), you will never run out of places to explore and experience.
 
 Full modlist [here](https://loadorderlibrary.com/lists/fahdon-a-skyrim-together-experience-1).
 
