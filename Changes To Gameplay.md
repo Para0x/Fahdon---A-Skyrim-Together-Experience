@@ -40,6 +40,8 @@ Notable Mods:
 
 6. [Haugbui](https://www.nexusmods.com/skyrimspecialedition/mods/26188) - An overhaul of the draugr all over Skyrim, changing up their progression and offering more variants as well.
 
+7. [Silver is For Monsters](https://www.nexusmods.com/skyrimspecialedition/mods/70863) - In the base game, the damage bonus of silver crossbows in the game to be unsatisfactory, so this mod modifies it by implementing a multiplicative bonus to the weapon damage instead, making it more dynamic and scalable. The range of creatures susceptible to silver weapons has also been expanded to include more magical or cursed creatures, creating an incentive for players to keep a silver weapon on hand.
+
 # Magic Overhaul
 At the base of our magic overhaul is [Mysticism - A Magic Overhaul](). On its own, it provides a fantastic collection of spells fit for any spellcaster. However, this isn't the only spell arsenal available to you:
 
