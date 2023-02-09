@@ -24,6 +24,8 @@ However, in addition to this standing stone overhaul, you may notice that the fa
 
 6. [Auto-Lockpicking](https://www.nexusmods.com/skyrimspecialedition/mods/59027) - Playing into the D&D Adventurer's party theme, this mod completely changes the manual lockpick system to that of a more traditional Difficulty Check. For example, a door might have a DC 12 lockpick check. You gain bonuses to your roll based on your Security level, so thieves can really feel useful in this party-based adventure.
 
+7. [Solvable Dragon Claw Doors](https://www.nexusmods.com/skyrim/mods/75793/) - Dragon Claw doors are no longer simply solved by turning the claw over and putting the combination in you see on the back of the claw. Now, you will need to actually look at the walls in the hall of stories to correctly solve each door and gain access to the final room!
+
 # Combat
 Fahdon uses the fantastic [Valvalis Combat - Visceral Tactics](https://www.nexusmods.com/skyrimspecialedition/mods/73836?tab=description) as its combat mod of choice. This is a mash-up of both Valhalla Combat and Valravn. Rounding this off with Chocolate Poise, do not expect to be able to blindly spam attack your way through every encounter. In most cases, you will have to make a plan of attack for every dungeon and bandit hideout you enter.
 
