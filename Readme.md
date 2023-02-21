@@ -143,7 +143,7 @@ Due to the Skyrim Together Reborn team disabling the ESL Reader, I've had to inc
 2. Inside the Divider you will find a mod named "CC AE Converted (STR Compatible)".
 3. Right click on the mod and select "Open in Explorer", which will then open up Windows Explorer.
 4. Double Click the folder named "Extensions BAT" to open it.
-5. Ctrl + X to cut the file from the folder, then return to the main folder and paste it using Ctrl + V
+5. Ctrl + X to cut the file from the folder, then return to the main folder (CC AE Converted (STR Compatible)), and paste it using Ctrl + V
 6. Double Click on the Extension Converter.bat to run it. You should see all the .ESLs turn into .ESMs.
 7. Refresh or restart Mod Organizer 2. If you see that the CC plugins have been converted in the plugins tab, continue to the next step.
 8. Now go back into MO2, click on the "Restore Backups" tab on the right pane above your plugins. (The one which looks like a swooping arrow)
