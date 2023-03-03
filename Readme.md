@@ -170,7 +170,7 @@ If you wish to install your own ENB, however, an ENB manager is included. Simply
 
 #### Using ENB Manager
 
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big `Run` button next to it. Click the dropdown box and navigate to `<Edit...>` at the top, then change your ENB Organizer path to `<Your Fadon Install LocatioN>\tools\ENB Organizer\ENB Organizer.exe` and then hit apply. Run the program named `Pick Your ENB` from Mod Organizer 2. The images below do not represent the settings in Fahdon. **These serve as general examples**.
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big `Run` button next to it. Click the dropdown box and navigate to `<Edit...>` at the top, then change your ENB Organizer path to `<Your Fadon Install Location>\tools\ENB Organizer\ENB Organizer.exe` and then hit apply. Run the program named `Pick Your ENB` from Mod Organizer 2. The images below do not represent the settings in Fahdon. **These serve as general examples**.
 
 ![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/ENB%201.png?raw=true)
 
