@@ -155,9 +155,9 @@ Due to the Skyrim Together Reborn team disabling the ESL Reader, I've had to inc
 
 ### Skyrim Together Reborn
 
-As it has been wonderfully documented by the STR team already, please continue to: [Skyrim Together Reborn](https://wiki.tiltedphoques.com/tilted-online/guides/client-setup/using-modorganizer2-mo2/skyrim-together-reborn/launching-skyrimtogether-through-mo2) for the initial setup of your STR client.
+As it has been wonderfully documented by the STR team already, please continue to: [Skyrim Together Reborn](https://wiki.tiltedphoques.com/tilted-online/general-information/playguide) for the playguide before continuing with your STR endeavours. Be sure to thoroughly read the guide. **Failure to do so will result in a broken game experience.**
 
-Following your read through of the STR playguide and setup, please do the following to prevent the Address Library error from continuously appearing:
+Following your read through of the STR playguide, please do the following to prevent the Address Library / instant CTD on launch error(s) from repeating:
 
 > When launching SkyrimTogether within MO2, after you click on "run" -- hold down spacebar until a window appears. This is where you will select the SkyrimSE.exe inside your Fahdon Install/Game Root folder. Refer to the text below as to why this is imperative.
 
