@@ -159,6 +159,8 @@ As it has been wonderfully documented by the STR team already, please continue t
 
 Following your read through of the STR playguide, please do the following to prevent the Address Library / instant CTD on launch error(s) from repeating:
 
+![image](https://im2.ezgif.com/tmp/ezgif-2-b5cb65fdd8.gif)
+
 > When launching SkyrimTogether within MO2, after you click on "run" -- hold down spacebar until a window appears. This is where you will select the SkyrimSE.exe inside your Fahdon Install/Game Root folder. Refer to the text below as to why this is imperative.
 
 > **NOTE:** Due to using Stock Game, please navigate to where you installed the modlist, open up the Game Root folder and select the SkyrimSE.exe inside. This is a **VERY IMPORTANT STEP**. If you use your actual install directory for Skyrim SE, the modlist **WILL NOT WORK**.
