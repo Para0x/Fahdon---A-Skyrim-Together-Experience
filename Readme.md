@@ -59,7 +59,9 @@ Get ready for a journey filled with stunning landscapes. With a wealth of fascin
 
 Full modlist [here](https://loadorderlibrary.com/lists/fahdon-a-skyrim-together-experience-1).
 
-> <ins>⚠️**"WARNING: FAHDON REQUIRES THE *FULL AE UPGRADE*, PLEASE ENSURE YOU HAVE PURCHASED THE FULL UPGRADE."**⚠️</ins>
+```diff 
+@@ ⚠️**"WARNING: FAHDON REQUIRES THE *FULL AE UPGRADE*, PLEASE ENSURE YOU HAVE PURCHASED THE FULL UPGRADE."**⚠️ @@
+```
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
