@@ -21,6 +21,16 @@ Sorcerers are adept at the use of a wide variety of weapons and armor, but typic
 4. Restoration: Healing
 5. Restoration: Lesser Ward
 
+Suggested Starting Class Bonuses:
+
+1. Spellsword
+2. Sorcerer
+
+Recommended [Sets of Skills](https://www.nexusmods.com/skyrimspecialedition/mods/55535) starting:
+
+1. Mage
+2. Priest
+3. Warrior (If you want to be more Tank focused)
 
 
 # Zealous Witch Hunter
