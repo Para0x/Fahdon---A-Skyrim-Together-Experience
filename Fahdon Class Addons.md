@@ -18,6 +18,8 @@ Sorcerers are adept at the use of a wide variety of weapons and armor, but typic
 1. Set of Heavy Armor
 2. Destruction: Cold Flames
 3. Conjuration: Conjure Skeleton
+4. Restoration: Healing
+5. Restoration: Lesser Ward
 
 
 
