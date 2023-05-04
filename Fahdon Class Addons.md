@@ -13,6 +13,14 @@ Sorcerers are adept at the use of a wide variety of weapons and armor, but typic
 
 **Arcane Knight** - As a master of manipulating magicka, the Sorcerer gains a powerful advantage in battle. They can enhance their physical abilities and learn Heavy Armor skills 10% faster, while also gaining a bonus of +50 to magicka. However, this intense devotion to the arcane has taken a toll on the Sorcerer's physical well-being, leading to a -25 health penalty.
 
+### Starting Gear & Spells:
+
+1. Set of Heavy Armor
+2. Destruction: Cold Flames
+3. Conjuration: Conjure Skeleton
+
+
+
 # Zealous Witch Hunter
 Witch Hunters are skilled in the art of detecting and eradicating supernatural threats to the land, such as undead, daedra, and cursed creatures. They have a mastery of archery, alchemy, and illusion magic, making them versatile and formidable adversaries.
 
