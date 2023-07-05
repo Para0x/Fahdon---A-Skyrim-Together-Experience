@@ -149,7 +149,7 @@ Due to the Skyrim Together Reborn team disabling the ESL Reader, I've had to inc
 6. Double Click on the Extension Converter.bat to run it. You should see all the .ESLs turn into .ESMs.
 7. Refresh or restart Mod Organizer 2. If you see that the CC plugins have been converted in the plugins tab, continue to the next step.
 8. Now go back into MO2, click on the "Restore Backups" tab on the right pane above your plugins. (The one which looks like a swooping arrow)
-9. Select the backup (there should only be **one**, if there isn't, choose the latest.) and all the ESMs should be loaded correctly:
+9. Select the backup on the **RIGHT SIDE** of MO2 as shown by the large red arrow and box in the image below.(there should only be **one**, if there isn't, choose the latest.) and all the ESMs should be loaded correctly:
 ![image](https://user-images.githubusercontent.com/88156705/194963545-9a56cade-f759-434a-8c4c-df0436f30a85.png)
 10. Hit Refresh in Mod Organizer 2 if the backup doesn't immediately change the load order.
 
