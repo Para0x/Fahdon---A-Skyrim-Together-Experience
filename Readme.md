@@ -174,21 +174,9 @@ If you wish to install your own ENB, however, an ENB manager is included. Simply
 
 #### Using ENB Manager
 
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big `Run` button next to it. Click the dropdown box and navigate to `<Edit...>` at the top, then change your ENB Organizer path to `<Your Fadon Install Location>\tools\ENB Organizer\ENB Organizer.exe` and then hit apply. Run the program named `ENB Organizer` from Mod Organizer 2. The images below do not represent the settings in Fahdon. **These serve as general examples**. **YOU MUST RE-ADD THE PRESETS AFTER RESETTING THE PATHS.**
+`DISCLAIMER: I will not be answering any questions regarding the ENB installations. The ENB preset I've chosen as default is provided as is, and if you don't know how to add a preset to ENB Organizer, please refer to its Nexus Page. Thank you.`
 
-![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/ENB%201.png?raw=true)
-
-If the image below comes up, simply press OK. It is nothing to be concerned about.
-
-![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/Ignore%20Warning.png?raw=true)
-
-Navigate to the Presets menu by pressing the symbol in the top left (the three lines). The menu should look like this:
-
-![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/ENB%203.png?raw=true)
-
-Activate the ENB you wish to use by pressing the slider. To deactivate it, simply press the slider.
-
-![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/ENB%205.png)
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big `Run` button next to it. Click the dropdown box and navigate to `<Edit...>` at the top, then change your ENB Organizer path to `<Your Fadon Install Location>\tools\ENB Organizer\ENB Organizer.exe` and then hit apply. Run the program named `ENB Organizer` from Mod Organizer 2. **YOU MUST RE-ADD THE PRESETS AFTER RESETTING THE PATHS.**
 
 For adding your own presets and more details, take a look at [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) for more information.
 
