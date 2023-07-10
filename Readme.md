@@ -197,11 +197,15 @@ Fahdon utilizes [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mo
 1. Create your character and let MCM Recorder Load everything.
 2. Feel free to explore the Starting Prison. There are a number of supplies to get you started.
 3. Choose an Alternate Start.
-4. Go into the [Set of Skills](https://www.nexusmods.com/skyrimspecialedition/mods/55535) MCM and select your starting class.
-5. Go into your inventory and use the "Choose Your Destiny" scroll to complete your starting skill choices.
-6. Once you have chosen your desired start and left the starting cell, open the MCM and navigate to the WeapSpeedMult Fix MCM. Ensure that the Weapon Speed Multiplier Fix is activated. If it is not, enable it. You will have to unequip any weapon you currently have equipped before doing so. **THIS IS NOT OPTIONAL**.
-7. Press F2 to open the Reborn UI and connect to your server!
-8. Have fun!
+4. Go into your Magic Menu and enable the "Class Selection" power. Activate to choose your starting class from [Set of Skills](https://www.nexusmods.com/skyrimspecialedition/mods/55535).
+5. Go into the SkyRem Attributes MCM and hit "Reroll" until you are satisfied with your stat spread. Press "Save" to lock in your stats.
+6. Go into your inventory and use the "Choose Your Destiny" scroll to complete your starting skill choices.
+7. When you approach the Alternate Start bed after choosing a start, a background menu will pop up allowing you to select your starting stat bonuses for whatever class you wish to invest in.
+8. Go into your Magic Menu and enable the "Reflect" power to choose a background that gives you a small boost to whichever stat that you select.
+9. In your Potions Inventory tab, there will be a special potion. Use it and see what happens! :)
+10. Once you have chosen your desired start and left the starting cell, open the MCM and navigate to the WeapSpeedMult Fix MCM. Ensure that the Weapon Speed Multiplier Fix is activated. If it is not, enable it. You will have to unequip any weapon you currently have equipped before doing so. **THIS IS NOT OPTIONAL**.
+11. Press F2 to open the Reborn UI and connect to your server!
+12. Have fun!
 	
 ## Adding mods to Fahdon
 
