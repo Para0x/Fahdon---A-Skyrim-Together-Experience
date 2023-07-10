@@ -204,7 +204,7 @@ Fahdon utilizes [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mo
 6. Go into your inventory and use the "Choose Your Destiny" scroll to complete your starting skill choices.
 7. When you approach the Alternate Start bed after choosing a start, a background menu will pop up allowing you to select your starting stat bonuses for whatever class you wish to invest in.
 8. Go into your Magic Menu and enable the "Reflect" power to choose a background that gives you a small boost to whichever stat that you select.
-9. In your Potions Inventory tab, there will be a special potion. Use it and see what happens! :)
+9. In your Potions Inventory tab, there will be a item called `Draught of Energy`. Use it and see what happens! :)
 10. Once you have chosen your desired start and left the starting cell, open the MCM and navigate to the WeapSpeedMult Fix MCM. Ensure that the Weapon Speed Multiplier Fix is activated. If it is not, enable it. You will have to unequip any weapon you currently have equipped before doing so. **THIS IS NOT OPTIONAL**.
 11. Press `;` to open the Autobody menu and select the preset for the race you have chosen. The body will auto-conform to the correct preset.
 12. Press F2 to open the Reborn UI and connect to your server!
