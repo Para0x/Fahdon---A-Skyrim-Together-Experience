@@ -191,6 +191,8 @@ Make sure the dropdown box on the right is set to `Skyrim Together` and press th
 
 Fahdon utilizes [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) by the lovely MrowPurr and does not require modification. If you wish to make any modifications to the MCM, **be sure to disconnect before touching the MCM and sync all changes with your other party members.**
 
+> NOTE: If there are any MCM Recorder errors during setup, just hit "Skip".
+
 ### Starting the Game
 
 - Fahdon uses [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272).
@@ -204,8 +206,9 @@ Fahdon utilizes [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mo
 8. Go into your Magic Menu and enable the "Reflect" power to choose a background that gives you a small boost to whichever stat that you select.
 9. In your Potions Inventory tab, there will be a special potion. Use it and see what happens! :)
 10. Once you have chosen your desired start and left the starting cell, open the MCM and navigate to the WeapSpeedMult Fix MCM. Ensure that the Weapon Speed Multiplier Fix is activated. If it is not, enable it. You will have to unequip any weapon you currently have equipped before doing so. **THIS IS NOT OPTIONAL**.
-11. Press F2 to open the Reborn UI and connect to your server!
-12. Have fun!
+11. Press `;` to open the Autobody menu and select the preset for the race you have chosen. The body will auto-conform to the correct preset.
+12. Press F2 to open the Reborn UI and connect to your server!
+13. Have fun!
 	
 ## Adding mods to Fahdon
 
