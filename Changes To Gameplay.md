@@ -8,23 +8,27 @@ Other notable gameplay changing mods are:
 
 1. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) - You gain levels by completing quests, defeating encounters and exploring. Skills no longer contribute to your character's level. This has been further tweaked by the inclusion of the DND-XP preset, which drastically overhauls the rate at which you gain XP from a variety of sources.
 
-2. [Sets of Skills](https://www.nexusmods.com/skyrimspecialedition/mods/55535?tab=posts) - A nonintrusive class mod that adds class-based progression and prestiging to further provide the player means of truly embodying their class and setting themselves apart from their party members. I encourage you to read up on its mod page for all the information.
+2. [Stokk - Simple Acrobatics and Athletics](https://www.nexusmods.com/skyrimspecialedition/mods/56478) - Stökk adds very basic Acrobatics and Athletics skills to the game. Jump and Sprint to level up Acrobatics and Athletics. Your jump height and speed will increase accordingly.
 
-3. [Starting in Classes](https://www.nexusmods.com/skyrimspecialedition/mods/72410) - In addition to Sets of Skills bonuses, this mod provides a scroll at the start of the game called "Choose Your Destiny". This will allow you to immediately obtain an equipment loadout and a nice buff/malus that reflects your class choice.
+3. [Sets of Skills](https://www.nexusmods.com/skyrimspecialedition/mods/55535?tab=posts) - A nonintrusive class mod that adds class-based progression and prestiging to further provide the player means of truly embodying their class and setting themselves apart from their party members. I encourage you to read up on its mod page for all the information.
 
-4. [Phylogeny - Races of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/44371) - Overhauls the racial bonuses by eschewing the daily powers in favor of passive abilities.
+4. [Starting in Classes](https://www.nexusmods.com/skyrimspecialedition/mods/72410) - In addition to Sets of Skills bonuses, this mod provides a scroll at the start of the game called "Choose Your Destiny". This will allow you to immediately obtain an equipment loadout and a nice buff/malus that reflects your class choice.
 
-5. [Know Your Enemy Redux](https://www.nexusmods.com/skyrimspecialedition/mods/55045) & [Know Your Enemy Redux Armors](https://www.nexusmods.com/skyrimspecialedition/mods/55203) - Distributes resistances & weaknesses to creatures, weapons & armors. There isn't one right tool for every situation.
+5. [Phylogeny - Races of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/44371) - Overhauls the racial bonuses by eschewing the daily powers in favor of passive abilities.
 
-6. [Curse of the Vampire](https://www.nexusmods.com/skyrimspecialedition/mods/10086) - A well-crafted vampire overhaul that leans into the roleplay aspects of vampire lore in elder scrolls. You will have to conceal yourself from the sun and will feel unwelcome in areas that are influenced by the Eight.
+6. [Know Your Enemy Redux](https://www.nexusmods.com/skyrimspecialedition/mods/55045) & [Know Your Enemy Redux Armors](https://www.nexusmods.com/skyrimspecialedition/mods/55203) - Distributes resistances & weaknesses to creatures, weapons & armors. There isn't one right tool for every situation.
 
-7. [Curse of the Firmament](https://www.nexusmods.com/skyrimspecialedition/mods/28419) - Due to how STR shares the buffs of standing stones with all players in the party, opting to have a standing stone mod that has all its abilities unlockable in an MCM, allows for every player to have their own bonuses that actually benefit their class. 
+7. [Curse of the Vampire](https://www.nexusmods.com/skyrimspecialedition/mods/10086) - A well-crafted vampire overhaul that leans into the roleplay aspects of vampire lore in elder scrolls. You will have to conceal yourself from the sun and will feel unwelcome in areas that are influenced by the Eight.
 
+8. [Curse of the Firmament](https://www.nexusmods.com/skyrimspecialedition/mods/28419) - Due to how STR shares the buffs of standing stones with all players in the party, opting to have a standing stone mod that has all its abilities unlockable in an MCM, allows for every player to have their own bonuses that actually benefit their class. 
+
+9. [Natural Character Growth and Decay](https://www.nexusmods.com/skyrimspecialedition/mods/76676) - Health, Magicka, Stamina, and Carry Weight will naturally grow according to your playstyle independent of level or skills. However, critical injuries or even just the passage of time can cause them to decay.
+   
 However, in addition to this standing stone overhaul, you may notice that the familiar standing stone locations appear in disarray and inert. Some exploration will be required to locate the new standing stones and claim your birthsign's power.
 
-6. [Auto-Lockpicking](https://www.nexusmods.com/skyrimspecialedition/mods/59027) - Playing into the D&D Adventurer's party theme, this mod completely changes the manual lockpick system to that of a more traditional Difficulty Check. For example, a door might have a DC 12 lockpick check. You gain bonuses to your roll based on your Security level, so thieves can really feel useful in this party-based adventure.
+9. [Auto-Lockpicking](https://www.nexusmods.com/skyrimspecialedition/mods/59027) - Playing into the D&D Adventurer's party theme, this mod completely changes the manual lockpick system to that of a more traditional Difficulty Check. For example, a door might have a DC 12 lockpick check. You gain bonuses to your roll based on your Security level, so thieves can really feel useful in this party-based adventure.
 
-7. [Solvable Dragon Claw Doors](https://www.nexusmods.com/skyrim/mods/75793/) - Dragon Claw doors are no longer simply solved by turning the claw over and putting the combination in you see on the back of the claw. Now, you will need to actually look at the walls in the hall of stories to correctly solve each door and gain access to the final room!
+10. [Solvable Dragon Claw Doors](https://www.nexusmods.com/skyrim/mods/75793/) - Dragon Claw doors are no longer simply solved by turning the claw over and putting the combination in you see on the back of the claw. Now, you will need to actually look at the walls in the hall of stories to correctly solve each door and gain access to the final room!
 
 # Combat
 Fahdon uses the fantastic [Valvalis Combat - Visceral Tactics](https://www.nexusmods.com/skyrimspecialedition/mods/73836?tab=description) as its combat mod of choice. This is a mash-up of both Valhalla Combat and Valravn. Rounding this off with Chocolate Poise, do not expect to be able to blindly spam attack your way through every encounter. In most cases, you will have to make a plan of attack for every dungeon and bandit hideout you enter.
@@ -36,11 +40,9 @@ Notable Mods:
 
 3. [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310) - Drastically increases the difficulty of dragon fights. No longer are these majestic creatures easily felled. They will be a force to reckon with, so come prepared.
 
-4. [Rogues 'N Raiders](https://www.nexusmods.com/skyrimspecialedition/mods/47504) - Introduces classes to the bandit faction, which means bandits now have specific roles and will try to leverage their advantages and work as a team to take you down.
+4. [Lawless - A Bandit Overhaul]([https://www.nexusmods.com/skyrimspecialedition/mods/47504](https://www.nexusmods.com/skyrimspecialedition/mods/88080)) - A complete overhaul to bandit enemies with new enemy types, more leveled tiers, and improved spells and stats.
 
-5. [Fanatical Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/68536) - New enemies and enemy variants have been added to a number of the occult factions of Skyrim.
-
-6. [Haugbui](https://www.nexusmods.com/skyrimspecialedition/mods/26188) - An overhaul of the draugr all over Skyrim, changing up their progression and offering more variants as well.
+6. [The Dragon Cult]([https://www.nexusmods.com/skyrimspecialedition/mods/26188](https://www.nexusmods.com/skyrimspecialedition/mods/81422)) - A Draugr Overhaul is comprehensive overhaul for Draugr, the undead creatures mostly found in Nordic Crypts around Skyrim. With it, Draugr are more challenging and varied than even before.
 
 7. [Silver is For Monsters](https://www.nexusmods.com/skyrimspecialedition/mods/70863) - In the base game, the damage bonus of silver crossbows in the game is rather . . unappealing, so this mod modifies it by implementing a multiplicative bonus to the weapon damage instead, making it more dynamic and scalable. The range of creatures susceptible to silver weapons has also been expanded, and now includes more magical or cursed creatures, creating an incentive for players to keep a silver weapon on hand.
 
