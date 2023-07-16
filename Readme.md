@@ -176,7 +176,11 @@ If you wish to install your own ENB, however, an ENB manager is included. Simply
 
 > DISCLAIMER: I will not be answering any questions regarding the ENB installations. The ENB preset I've chosen as default is provided as is, and if you don't know how to add a preset to ENB Organizer, please refer to its Nexus Page. Thank you.
 
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big `Run` button next to it. Click the dropdown box and navigate to `<Edit...>` at the top, then change your ENB Organizer path to `<Your Fadon Install Location>\tools\ENB Organizer\ENB Organizer.exe` and then hit apply. Run the program named `ENB Organizer` from Mod Organizer 2. **YOU MUST RE-ADD THE PRESETS AFTER RESETTING THE PATHS.**
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big `Run` button next to it. Click the `Run` button, then go to the `Skyrim Special Edition` as shown in the image below and click on the three vertical dots to change your ENB Organizer path to `<Your Fadon Install Location>\Game Root\SkyrimSE.exe` and then hit apply. There are a number of presets to choose from.
+
+![image](https://github.com/Para0x/Fahdon-A-Skyrim-Together-Experience/assets/88156705/54919b25-4685-464e-825e-feaa0c06c136)
+
+> If you are choosing to use the included Community Shaders, please disable the default ENB preset `Ebony ENB` and `ENB DLLs` before running the game.
 
 For adding your own presets and more details, take a look at [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) for more information.
 
