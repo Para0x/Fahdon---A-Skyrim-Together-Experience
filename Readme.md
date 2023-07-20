@@ -167,20 +167,23 @@ Following your read through of the STR playguide, please do the following to pre
 
 > **NOTE:** Due to using Stock Game, please navigate to where you installed the modlist, open up the Game Root folder and select the SkyrimSE.exe inside. This is a **VERY IMPORTANT STEP**. If you use your actual install directory for Skyrim SE, the modlist **WILL NOT WORK**.
 
-### ENB
-Fahdon uses vanilla weathers and comes with an ENB preinstalled and ready for use.
+### ENB & RESHADE
+Fahdon uses vanilla weathers and comes pre-installed with a customized version of [Cinematic Vanilla ENB](https://www.nexusmods.com/skyrimspecialedition/mods/73084), however ReShade and Community Shaders are enabled by default. It is my own ReShade Preset based off [Veyrah ReShade](https://www.nexusmods.com/skyrimspecialedition/mods/94800).
 
-If you wish to install your own ENB, however, an ENB manager is included. Simply put your new ENB into a seperate folder in `Fahdon\tools\Enb Organizer\Games\SkyrimSE\Preset`.
+If you wish to install your own ENB, however, an ENB manager is included. Simply put your new ENB into a seperate folder in `Fahdon\tools\Enb Organizer\Games\SkyrimSE\Preset` using ENB Organizer.
 
-#### Using ENB Manager
+#### Using ENB Organizer
 
-> DISCLAIMER: I will not be answering any questions regarding the ENB installations. The ENB preset I've chosen as default is provided as is, and if you don't know how to add a preset to ENB Organizer, please refer to its Nexus Page. Thank you.
-
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big `Run` button next to it. Click the `Run` button, then go to the `Skyrim Special Edition` as shown in the image below and click on the three vertical dots to change your ENB Organizer path to `<Your Fadon Install Location>\Game Root\SkyrimSE.exe` and then hit apply. There are a number of presets to choose from.
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big `Run` button next to it. Click the `Run` button, then go to the `Skyrim Special Edition` as shown in the image below and click on the three vertical dots to change your ENB Organizer path to `<Your Fadon Install Location>\Game Root\SkyrimSE.exe` and then hit apply. There are a number of presets to choose from 
 
 ![image](https://github.com/Para0x/Fahdon-A-Skyrim-Together-Experience/assets/88156705/54919b25-4685-464e-825e-feaa0c06c136)
 
 > If you are choosing to use the included Community Shaders, please disable the default ENB preset `Ebony ENB` and `ENB DLLs` before running the game.
+
+To change ReShade Presets, refer to the following image below. Clicking on the preset name as indicated by the *red arrow* will open a drop down menu. There are 2 presets to choose from: `Fahdon ReShade - Community Shaders (Based on Veyrah)` & `Fahdon ReShade - ENB Friendly Preset`. The ENB Friendly Preset is to be used in tandem with your choice of ENB.
+
+![image](https://github.com/Para0x/Fahdon-A-Skyrim-Together-Experience/assets/88156705/24ad9733-bd91-4fe6-b988-d6ef7deebf4b)
+
 
 For adding your own presets and more details, take a look at [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) for more information.
 
