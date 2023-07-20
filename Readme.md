@@ -167,14 +167,12 @@ Following your read through of the STR playguide, please do the following to pre
 
 > **NOTE:** Due to using Stock Game, please navigate to where you installed the modlist, open up the Game Root folder and select the SkyrimSE.exe inside. This is a **VERY IMPORTANT STEP**. If you use your actual install directory for Skyrim SE, the modlist **WILL NOT WORK**.
 
-### ENB
+### ENB & RESHADE
 Fahdon uses vanilla weathers and comes with an ENB preinstalled and ready for use.
 
 If you wish to install your own ENB, however, an ENB manager is included. Simply put your new ENB into a seperate folder in `Fahdon\tools\Enb Organizer\Games\SkyrimSE\Preset`.
 
 #### Using ENB Manager
-
-> DISCLAIMER: I will not be answering any questions regarding the ENB installations. The ENB preset I've chosen as default is provided as is, and if you don't know how to add a preset to ENB Organizer, please refer to its Nexus Page. Thank you.
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big `Run` button next to it. Click the dropdown box and navigate to `<Edit...>` at the top, then change your ENB Organizer path to `<Your Fadon Install Location>\tools\ENB Organizer\ENB Organizer.exe` and then hit apply. Run the program named `ENB Organizer` from Mod Organizer 2. **YOU MUST RE-ADD THE PRESETS AFTER RESETTING THE PATHS.**
 
