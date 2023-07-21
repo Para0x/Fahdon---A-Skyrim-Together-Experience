@@ -35,7 +35,7 @@ Wabbajack Modlist Installer by Chef
     - [Creation Club ESL to ESM](#Creation-Club-ESL-to-ESM)
     - [Skyrim Together Reborn](#Skyrim-Together-Reborn)
     - [BethINI](#bethini)
-    - [ENB & ReShade](#ENB-&-RESHADE)
+    - [ENB & ReShade](#enb-&-reshade)
   - [Playing the List](#playing-the-list)
     - [Starting up the list](#starting-up-the-list)
     - [In Game MCM Options](#in-game-mcm-options)
