@@ -35,7 +35,7 @@ Wabbajack Modlist Installer by Chef
     - [Creation Club ESL to ESM](#Creation-Club-ESL-to-ESM)
     - [Skyrim Together Reborn](#Skyrim-Together-Reborn)
     - [BethINI](#bethini)
-    - [ENB & ReShade](#enb-&-reshade)
+    - [ENB & ReShade](#enb-and-reshade)
   - [Playing the List](#playing-the-list)
     - [Starting up the list](#starting-up-the-list)
     - [In Game MCM Options](#in-game-mcm-options)
@@ -167,7 +167,7 @@ Following your read through of the STR playguide, please do the following to pre
 
 > **NOTE:** Due to using Stock Game, please navigate to where you installed the modlist, open up the Game Root folder and select the SkyrimSE.exe inside. This is a **VERY IMPORTANT STEP**. If you use your actual install directory for Skyrim SE, the modlist **WILL NOT WORK**.
 
-### ENB & RESHADE
+### ENB AND RESHADE
 Fahdon uses vanilla weathers and comes pre-installed with a customized version of [Cinematic Vanilla ENB](https://www.nexusmods.com/skyrimspecialedition/mods/73084), however ReShade and Community Shaders are enabled by default. It is my own ReShade Preset based off [Veyrah ReShade](https://www.nexusmods.com/skyrimspecialedition/mods/94800).
 
 If you wish to install your own ENB, however, an ENB manager is included. Simply put your new ENB into a seperate folder in `Fahdon\tools\Enb Organizer\Games\SkyrimSE\Preset` using ENB Organizer.
