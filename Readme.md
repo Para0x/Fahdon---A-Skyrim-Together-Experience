@@ -178,7 +178,7 @@ Head over to the installation folder and locate an executable named `ModOrganize
 
 ![image](https://github.com/Para0x/Fahdon-A-Skyrim-Together-Experience/assets/88156705/54919b25-4685-464e-825e-feaa0c06c136)
 
-> If you are choosing to use the included Community Shaders, please disable the default ENB preset `Ebony ENB` and `ENB DLLs` before running the game.
+> If you are choosing to use the recommended ENB, please enable the presets `Cinematic Vanilla ENB` and `ENB DLLs` before running the game.
 
 To change ReShade Presets, refer to the following image below. Clicking on the preset name as indicated by the *red arrow* will open a drop down menu. There are 2 presets to choose from: `Fahdon ReShade - Community Shaders (Based on Veyrah)` & `Fahdon ReShade - ENB Friendly Preset`. The ENB Friendly Preset is to be used in tandem with your choice of ENB.
 
