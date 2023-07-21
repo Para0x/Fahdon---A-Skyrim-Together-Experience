@@ -205,7 +205,7 @@ Fahdon utilizes [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mo
 - Fahdon uses [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272).
 1. Create your character and let MCM Recorder Load everything.
 2. Feel free to explore the Starting Prison. There are a number of supplies to get you started.
-3. Choose an Alternate Start.
+3. Choose an Alternate Start. (Note: **BOTH PLAYERS MUST SELECT THE SAME START.**)
 4. Go into your Magic Menu and enable the "Class Selection" power. Activate to choose your starting class from [Set of Skills](https://www.nexusmods.com/skyrimspecialedition/mods/55535).
 5. Go into the SkyRem Attributes MCM and hit "Reroll" until you are satisfied with your stat spread. Press "Save" to lock in your stats.
 6. Go into your inventory and use the "Choose Your Destiny" scroll to complete your starting skill choices.
@@ -215,6 +215,9 @@ Fahdon utilizes [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mo
 10. Press `;` to open the Autobody menu and select the preset for the race you have chosen. The body will auto-conform to the correct preset.
 11. Press F2 to open the Reborn UI and connect to your server!
 12. Have fun!
+
+Notes for Character Creation:
+> **Do not** save presets or **use any racemenu sliders past the Face Overlays**. This includes Expressions, as well as any form of sculpting. Failure to abide by this will result in the other player CTDing.
 	
 ## Adding mods to Fahdon
 
