@@ -51,7 +51,7 @@ This collection of mods has been created with the goal of providing an optimal e
 
 Maximizing the benefits of playing together as a group can be achieved by assigning specific roles to each player through the use of the [Set of Skills](https://www.nexusmods.com/skyrimspecialedition/mods/55535) MCM. This allows each player to focus on developing a particular archetype, resulting in unique strengths and abilities that can greatly enhance the overall performance of the party.
 
-Also, if you are into light or heavy RP, Fahdon has the tools to cultivate your inner storyteller. From [in-game emotes](https://www.nexusmods.com/skyrimspecialedition/mods/22960) to [immersive spell learning](https://www.nexusmods.com/skyrimspecialedition/mods/71565), this list will have a little something for everyone.
+Also, if you are into light or heavy RP, Fahdon has the tools to cultivate your inner storyteller. From [in-game emotes](https://www.nexusmods.com/skyrimspecialedition/mods/22960) to [immersive spell learning](https://www.nexusmods.com/skyrimspecialedition/mods/20521), this list will have a little something for everyone.
 
 Beware, as your opponents in the game have been made more cunning and will quickly overpower you if you are not prepared. It is crucial to strategize carefully and equip your group with the necessary resources before embarking on any adventures. 
 
