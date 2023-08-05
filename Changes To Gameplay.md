@@ -31,7 +31,7 @@ However, in addition to this standing stone overhaul, you may notice that the fa
 10. [Solvable Dragon Claw Doors](https://www.nexusmods.com/skyrim/mods/75793/) - Dragon Claw doors are no longer simply solved by turning the claw over and putting the combination in you see on the back of the claw. Now, you will need to actually look at the walls in the hall of stories to correctly solve each door and gain access to the final room!
 
 # Combat
-Fahdon uses the fantastic [Valvalis Combat - Visceral Tactics](https://www.nexusmods.com/skyrimspecialedition/mods/73836?tab=description) as its combat mod of choice. This is a mash-up of both Valhalla Combat and Valravn. Rounding this off with Chocolate Poise, do not expect to be able to blindly spam attack your way through every encounter. In most cases, you will have to make a plan of attack for every dungeon and bandit hideout you enter.
+Fahdon uses the fantastic [Chocolate Poise - Plus](https://www.nexusmods.com/skyrimspecialedition/mods/82091) as its combat mod of choice, as well as Valravn + Valhalla. Do not expect to be able to blindly spam attack your way through every encounter. In most cases, you will have to make a plan of attack for every dungeon and bandit hideout you enter.
 
 Notable Mods:
 1. [Archery Locational Damage](https://www.nexusmods.com/skyrimspecialedition/mods/63863) - Introduces a locational damage system for projectiles. Be aware that NPCs also have access to this ability, so keep your shields up and helmets on.
