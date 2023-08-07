@@ -74,6 +74,4 @@ At the base of our magic overhaul is [Mysticism - A Magic Overhaul](). On its ow
 
 7. [Observatory](https://www.nexusmods.com/skyrimspecialedition/mods/72405) - You have heard mention that necromancer activity has started growing near the entrance to the Jerall Mountains. It's been said that suspicious individuals are seen entering and leaving the mouth of a cave near the Glenmoril Coven.
 
-8. [Dungeons Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/51798) - Breathes new life into the familiar dungeons, offering a number of alternate routes to take.
-
-9. [Inconvenient Dungeons](https://www.nexusmods.com/skyrimspecialedition/mods/66784) - Removes the easy exit out the back of numerous dungeons and overhauls several of the bosses at the end of these dungeons as well.
+8. [Inconvenient Dungeons](https://www.nexusmods.com/skyrimspecialedition/mods/66784) - Removes the easy exit out the back of numerous dungeons and overhauls several of the bosses at the end of these dungeons as well.
