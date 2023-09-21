@@ -132,6 +132,9 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 	- Windows 10/11 may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
 ## Post-Installation
+```diff 
+@@ ⚠️**"NOTE: DO NOT INSTALL A STANDALONE VERSION OF MOD ORGANIZER 2. AN EXECUTABLE IS AVAILABLE IN THE WABBAJACK 'INSTALL' DIRECTORY."**⚠️ @@
+```
 
 ### Game Folder
 
